@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindCrafter.CSharp.Plugins", "MindCrafter.CSharp.Plugins.csproj", "{88CCB1E1-5DD6-BF99-276D-E03012C04D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindCrafter.CSharp", "MindCrafter.CSharp.csproj", "{876C1C5E-137C-5DE4-66F7-B88A91294D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindCrafter.CSharp.Editor", "MindCrafter.CSharp.Editor.csproj", "{7E2298DF-49F1-6575-1BD6-223E784468BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CCB1E1-5DD6-BF99-276D-E03012C04D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CCB1E1-5DD6-BF99-276D-E03012C04D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CCB1E1-5DD6-BF99-276D-E03012C04D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CCB1E1-5DD6-BF99-276D-E03012C04D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876C1C5E-137C-5DE4-66F7-B88A91294D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876C1C5E-137C-5DE4-66F7-B88A91294D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876C1C5E-137C-5DE4-66F7-B88A91294D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876C1C5E-137C-5DE4-66F7-B88A91294D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2298DF-49F1-6575-1BD6-223E784468BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2298DF-49F1-6575-1BD6-223E784468BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2298DF-49F1-6575-1BD6-223E784468BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2298DF-49F1-6575-1BD6-223E784468BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
